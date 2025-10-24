@@ -1,0 +1,4 @@
+c:\users\abeer\documents\visual studio 2013\Projects\TIC_IPG203_F24\TIC_IPG203_F24\bin\Debug\TIC_IPG203_F24.exe
+c:\users\abeer\documents\visual studio 2013\Projects\TIC_IPG203_F24\TIC_IPG203_F24\bin\Debug\TIC_IPG203_F24.pdb
+c:\users\abeer\documents\visual studio 2013\Projects\TIC_IPG203_F24\TIC_IPG203_F24\obj\Debug\TIC_IPG203_F24.exe
+c:\users\abeer\documents\visual studio 2013\Projects\TIC_IPG203_F24\TIC_IPG203_F24\obj\Debug\TIC_IPG203_F24.pdb
