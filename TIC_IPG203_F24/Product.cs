@@ -5,10 +5,7 @@ using System.Text;
 
 namespace TIC_IPG203_F24
 {
-
     // Delegate for stock alerts
-    public delegate void StockAlertHandler(IProduct sender, string message);
-
     public abstract class Product : IProduct
     {
         private string _name;
@@ -18,6 +15,8 @@ namespace TIC_IPG203_F24
         private static int _productCounter = 0;
 
         private static int _totalProductsCreated = 0;
+
+       
 
         // Constructor
         protected Product(string name, decimal basePrice, int stockQuantity)
@@ -114,5 +113,7 @@ namespace TIC_IPG203_F24
                 OutOfStockAlert(this, "OUT OF STOCK: " + _name + " is no longer available!");
             }
         }
+
+      
     }
 }

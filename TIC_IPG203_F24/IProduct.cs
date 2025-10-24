@@ -19,8 +19,7 @@ namespace TIC_IPG203_F24
         decimal BasePrice { get; }
         int StockQuantity { get; }
 
-        // Events in interfaces
-        event StockAlertHandler LowStockAlert;
-        event StockAlertHandler OutOfStockAlert;
+         event StockAlertHandler LowStockAlert;
+         event StockAlertHandler OutOfStockAlert;
     }
 }
